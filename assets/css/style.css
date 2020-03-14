@@ -1,0 +1,30 @@
+/* all p-tags */
+
+nav {
+    font-family: "Georgia", "Times", "Times New Roman", "serif";
+}
+
+p {
+    font-family: "Helvetica Neue", "Helvetica", "sans-serif";
+  }
+  
+.nav-link:hover {
+    background-color: #555;
+    color: #55555763;
+  }
+
+
+.navbar-brand {
+    border: none;
+    outline: none;
+    padding: 10px 16px;
+    background-color: #4aaaa5;
+    cursor: pointer;
+  } 
+
+
+body {
+    background-image: url("ripples.png");
+}
+
+
