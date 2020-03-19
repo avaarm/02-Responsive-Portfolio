@@ -1,4 +1,4 @@
-# Basic-Portfolio.github.io
+# 02-Responsive-Portfolio
 A portfolio demonstrating my current abilities
 # Recommended Assignment - That Portfolio Though
 
