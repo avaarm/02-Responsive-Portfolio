@@ -48,7 +48,9 @@ h1 {
 
 .myface {
   width: auto;
-  padding-left: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
 }
 
 .contactForm {
